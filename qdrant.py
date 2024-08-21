@@ -4,7 +4,7 @@ import torch
 from openai import OpenAI
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
-import mysql.connector
+# import mysql.connector
 from datetime import datetime
 
 import json
