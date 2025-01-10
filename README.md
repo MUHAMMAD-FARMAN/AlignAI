@@ -45,6 +45,6 @@ AlignAI is an advanced AI-driven physiotherapy solution designed to assist strok
   Locate the index.html file and open it in your web browser.
 _Hurray! The Project is Running_
 
-#Demo Video:
+# Demo Video:
 
 You can watch the demo video here: [AlignAI.mp4](Demo/AlignAI.mp4)
