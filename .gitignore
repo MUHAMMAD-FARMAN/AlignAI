@@ -5,3 +5,64 @@ __pycache__/
 venv/
 .env
 temp/
+
+config.json
+.venv/
+Physiotherapy for stroke survivors.pdf
+# Ignore virtual environments
+**/venv/
+**/env/
+**/.venv/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled and built files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Coverage reports
+htmlcov/
+*.cover
+.coverage
+*.coverage.*
+
+# Test and debugging artifacts
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cache
+
+# Pip related files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS files
+*.DS_Store
