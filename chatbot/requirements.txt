@@ -1,0 +1,10 @@
+gradio
+mediapipe
+opencv-python
+numpy
+pymongo
+torch
+openai
+qdrant-client
+sentence-transformers
+pillow
